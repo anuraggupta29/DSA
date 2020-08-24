@@ -30,7 +30,7 @@ def binarySearch2(arr,ele):
                 first = mid+1
     return found
 
-arr = [1,2,3,4,5,6,7,8,9,10,12,15,17,19,30,34,56]
+arr = [1,2,3,4,5,6,7,8,9,10,12,15,17,19,30,34,56, 110]
 ele = 56
 
 print(binarySearch2(arr,ele))
